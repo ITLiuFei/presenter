@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Mitsai Wireless Presenter</title>
+<item>
+<title>2.0</title>
+<pubDate>周四, 04 2月 2021 14:05:47 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ITLiuFei/presenter/mitsaiwirelesspresenter.dmg" sparkle:version="2.0" sparkle:shortVersionString="2.0" length="26167738" type="application/octet-stream" sparkle:edSignature="FgI26erZpo98N4Xm1HUqBJsCEsNQqXxZ3qD78GvwrlQnwqpDzueblmL7U0hKZFvILVnegWcnd6LoQs4JPFIiDw=="/>
+</item>
+</channel></rss>
